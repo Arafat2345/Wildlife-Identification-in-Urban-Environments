@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Wildlife Identification in Urban Environments
+description: An image classification API that classifies 115 different types of wildlife in Urban Environments
+
+author:
+  name: Arafat Hossen
